@@ -1,0 +1,36 @@
+; File generated automatically from dlls/bcrypt/bcrypt.spec; do not edit!
+
+LIBRARY bcrypt.dll
+
+EXPORTS
+  BCryptAddContextFunction @1
+  BCryptAddContextFunctionProvider @2
+  BCryptCloseAlgorithmProvider @3
+  BCryptCreateHash @7
+  BCryptDecrypt @8
+  BCryptDeriveKeyPBKDF2 @11
+  BCryptDestroyHash @12
+  BCryptDestroyKey @13
+  BCryptDuplicateHash @15
+  BCryptDuplicateKey @16
+  BCryptEncrypt @17
+  BCryptEnumAlgorithms @18
+  BCryptExportKey @24
+  BCryptFinalizeKeyPair @25
+  BCryptFinishHash @26
+  BCryptGenRandom @28
+  BCryptGenerateKeyPair @29
+  BCryptGenerateSymmetricKey @30
+  BCryptGetFipsAlgorithmMode @31
+  BCryptGetProperty @32
+  BCryptHash @33
+  BCryptHashData @34
+  BCryptImportKey @35
+  BCryptImportKeyPair @36
+  BCryptOpenAlgorithmProvider @37
+  BCryptRegisterProvider @43
+  BCryptRemoveContextFunction @44
+  BCryptRemoveContextFunctionProvider @45
+  BCryptSetProperty @50
+  BCryptUnregisterProvider @53
+  BCryptVerifySignature @54

@@ -1,0 +1,60 @@
+; File generated automatically from dlls/mscms/mscms.spec; do not edit!
+
+LIBRARY mscms.dll
+
+EXPORTS
+  AssociateColorProfileWithDeviceA @1
+  AssociateColorProfileWithDeviceW @2
+  CheckBitmapBits @3
+  CheckColors @4
+  CloseColorProfile @5
+  ConvertColorNameToIndex @6
+  ConvertIndexToColorName @7
+  CreateColorTransformA @8
+  CreateColorTransformW @9
+  CreateDeviceLinkProfile @10
+  CreateMultiProfileTransform @11
+  CreateProfileFromLogColorSpaceA @12
+  CreateProfileFromLogColorSpaceW @13
+  DeleteColorTransform @14
+  DisassociateColorProfileFromDeviceA @15
+  DisassociateColorProfileFromDeviceW @16
+  EnumColorProfilesA @17
+  EnumColorProfilesW @18
+  GenerateCopyFilePaths @19
+  GetCMMInfo @20
+  GetColorDirectoryA @21
+  GetColorDirectoryW @22
+  GetColorProfileElement @23
+  GetColorProfileElementTag @24
+  GetColorProfileFromHandle @25
+  GetColorProfileHeader @26
+  GetCountColorProfileElements @27
+  GetNamedProfileInfo @28
+  GetPS2ColorRenderingDictionary @29
+  GetPS2ColorRenderingIntent @30
+  GetPS2ColorSpaceArray @31
+  GetStandardColorSpaceProfileA @32
+  GetStandardColorSpaceProfileW @33
+  InstallColorProfileA @34
+  InstallColorProfileW @35
+  IsColorProfileTagPresent @42
+  IsColorProfileValid @43
+  OpenColorProfileA @44
+  OpenColorProfileW @45
+  RegisterCMMA @46
+  RegisterCMMW @47
+  SelectCMM @48
+  SetColorProfileElement @49
+  SetColorProfileElementReference @50
+  SetColorProfileElementSize @51
+  SetColorProfileHeader @52
+  SetStandardColorSpaceProfileA @53
+  SetStandardColorSpaceProfileW @54
+  SpoolerCopyFileEvent @55
+  TranslateBitmapBits @56
+  TranslateColors @57
+  UninstallColorProfileA @58
+  UninstallColorProfileW @59
+  UnregisterCMMA @60
+  UnregisterCMMW @61

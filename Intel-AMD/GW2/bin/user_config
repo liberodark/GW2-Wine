@@ -1,0 +1,7 @@
+#!/bin/bash
+cd "`dirname "$0"`/.."
+export WINEDEBUG=-all
+export WINEARCH=win64
+export WINEPREFIX="$PWD/data"
+"./bin/winecfg" & disown
+

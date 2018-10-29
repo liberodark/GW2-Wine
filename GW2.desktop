@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Guild Wars 2
+Comment=
+Exec=/home/pc/Games/GW2/bin/user_run
+Icon=lutris_guild-wars-2
+Path=
+Terminal=false
+StartupNotify=false
