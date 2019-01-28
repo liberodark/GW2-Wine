@@ -13,10 +13,13 @@ wget "https://account.arena.net/content/download/gw2/win/64";
 echo " "
 echo "Creating Shader Cache Folder"
 echo " "
-mkdir ~/.local/share/gw2_shaders
+mkdir "$PWD/nv_shader_cache"
 sleep 2s
 echo "2) Setting up the final pieces."
 mv ./64 "./data/drive_c/GW2/GW2.exe"
+unzip "./setup.dat"
+sleep 1s
+rm "./setup.dat"
 sleep 2s
 echo " "
 echo "3) Setup is complete, you can now run the game using the provided 'play.sh' file."
@@ -28,4 +31,5 @@ echo "If you already have Guild Wars 2 on your system and wish to play it in thi
 echo " "
 sleep 2s
 echo "End of Setup."
+rm "./setup.sh"
 

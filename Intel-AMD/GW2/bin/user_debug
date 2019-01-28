@@ -6,18 +6,17 @@ export LD_LIBRARY_PATH="./deps"
 export WINEARCH=win64
 export WINEPREFIX="$PWD/data"
 export STAGING_SHARED_MEMORY=1
-export STAGING_RT_PRIORITY_SERVER=90
+#export STAGING_RT_PRIORITY_SERVER=90
 export WINEESYNC=1
 export PBA_ENABLE=1
 
 # Intel/AMD Mesa Specific Env_vars
 export vblank_mode=0
 export MESA_GLSL_CACHE_DISABLE=0
-
-# Mesa Switches - May Improve Performance (uncomment below to enable).
-#export mesa_glthread=true
+export MESA_GLSL_CACHE_DIR="$PWD/shader_cache"
+export mesa_glthread=true
 
 # Launch Command
 cd "$PWD/data/drive_c/GW2"
-"../../../bin/wine64" ./GW2.exe -maploadinfo
+"../../../bin/wine64" ./GW2.exe $@ -maploadinfo
 
