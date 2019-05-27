@@ -2,7 +2,7 @@
 
 This is a easy installer for GW2 on Linux.
 
-Screenshot !
+[![https://imgur.com/hdn019q.png](https://imgur.com/hdn019q.png)](https://imgur.com/hdn019q.png)
 
 
 ## How to use :
