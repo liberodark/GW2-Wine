@@ -1,4 +1,44 @@
-# GW2-Wine
+# Guild Wars 2 for Linux
+
+This is a easy installer for GW2 on Linux.
+
+Screenshot !
+
+
+## How to use :
+
+Just download :
+
+Guild Wars 2 1.7 Intel-AMD.tar.gz : For Intel GPU or AMD GPU
+
+Guild Wars 2 1.7 Nvidia.tar.gz : For Nvidia GPU
+
+Extract :
+
+Right clic extract here or
+
+```tar -xvf Guild Wars 2 1.7 Nvidia.tar.gz```
+
+Install :
+
+Just double clic on install
+
+## Linux Compatibility :
+
+- Debian 7.x / 8.x / 9.x
+- Ubuntu 18.04
+- Centos 6.x / 7.x
+- Red Hat 6.x / 7.x / 8.x
+- Fedora 27 / 29
+
+## Installer made by :
+
+liberodark
+
+## Wine modified made by :
+
+ArmoredVehicle.2849
+
 Wine for GW2 make by ArmoredVehicle.2849 https://en-forum.guildwars2.com/discussion/31192/playing-guild-wars-2-on-linux-performance-optimizations-and-more
 
 Alternative solution - If the above doesn't work, don't revert those changes, instead try this:
