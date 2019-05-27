@@ -44,6 +44,7 @@ liberodark, v1cont, Хрюнделёк
 ## Wine modified made by :
 
 ArmoredVehicle.2849
+
 https://en-forum.guildwars2.com/discussion/31192/playing-guild-wars-2-on-linux-performance-optimizations-and-more
 
 ## Troubleshouting :
