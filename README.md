@@ -21,15 +21,14 @@ Right clic extract here or
 
 #### Install :
 
-Just double clic on install
+Just double clic on install select your folder and install it.
 
 ## Linux Compatibility :
 
-- Debian 7.x / 8.x / 9.x
+- Debian 8.x / 9.x
 - Ubuntu 18.04
-- Centos 6.x / 7.x
-- Red Hat 6.x / 7.x / 8.x
-- Fedora 27 / 29
+- Manjaro 18.0.4
+- Fedora 29 / 30
 
 ## Installer made by :
 
