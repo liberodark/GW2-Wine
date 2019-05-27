@@ -32,7 +32,7 @@ Just double clic on install select your folder and install it.
 
 ## Installer made by :
 
-liberodark
+liberodark, v1cont, Хрюнделёк
 
 ## Wine modified made by :
 
