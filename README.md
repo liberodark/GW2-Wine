@@ -38,6 +38,7 @@ Just double clic on desktop shortcut in menu or desktop.
 - Ubuntu 18.04
 - Manjaro 18.0.4
 - Fedora 29 / 30
+- Centos 7.x
 
 ## Installer made by :
 
@@ -55,10 +56,10 @@ Alternative solution - If the above doesn't work, don't revert those changes, in
 
 Edit '/etc/systemd/system.conf' and '/etc/systemd/user.conf' :
 
-Ubuntu
+Ubuntu 18.04 / Centos 7
 ```
-sudo sed -i "s@#DefaultLimitNOFILE=@#DefaultLimitNOFILE=1048576@g" /etc/systemd/system.conf
-sudo sed -i "s@#DefaultLimitNOFILE=@#DefaultLimitNOFILE=1048576@g" /etc/systemd/user.conf
+sudo sed -i "s@#DefaultLimitNOFILE=@DefaultLimitNOFILE=1048576@g" /etc/systemd/system.conf
+sudo sed -i "s@#DefaultLimitNOFILE=@DefaultLimitNOFILE=1048576@g" /etc/systemd/user.conf
 ```
 
 Manjaro
