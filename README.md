@@ -25,6 +25,7 @@ tar -xvf Guild.Wars.2.1.7.Nvidia.tar.gz
 #### Install :
 
 Just double clic on install select your folder and install it.
+PS : Progress bar not work at now but when is finish you have message Install Complete
 
 #### Run :
 
