@@ -45,6 +45,19 @@ Alternative solution - If the above doesn't work, don't revert those changes, in
 
 Edit '/etc/systemd/system.conf' and '/etc/systemd/user.conf' :
 
+Ubuntu
+```
+sudo sed -i "s@#DefaultLimitNOFILE=@#DefaultLimitNOFILE=1048576@g" /etc/systemd/system.conf
+sudo sed -i "s@#DefaultLimitNOFILE=@#DefaultLimitNOFILE=1048576@g" /etc/systemd/user.conf
+```
+
+Manjaro
+```
+sudo sed -i "s@#DefaultLimitNOFILE=1024:524288@DefaultLimitNOFILE=1048576@g" /etc/systemd/system.conf
+sudo sed -i "s@#DefaultLimitNOFILE=@DefaultLimitNOFILE=1048576@g" /etc/systemd/user.conf
+```
+
+Manually
 ```
 sudo nano /etc/systemd/system.conf
 sudo nano /etc/systemd/user.conf
