@@ -80,6 +80,6 @@ Reboot.
 For check if that work run : (need to see '1048576')
 
 ```
-ulimit -Hn 
+ulimit -Hn
 ulimit -Sn
 ```
