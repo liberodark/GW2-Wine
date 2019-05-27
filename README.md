@@ -17,7 +17,10 @@ Guild Wars 2 1.7 Nvidia.tar.gz [Download](https://github.com/liberodark/GW2-Wine
 
 Right clic extract here or
 
-```tar -xvf Guild Wars 2 1.7 Nvidia.tar.gz```
+```
+tar -xvf Guild.Wars.2.1.7.Intel-AMD.tar.gz
+tar -xvf Guild.Wars.2.1.7.Nvidia.tar.gz
+```
 
 #### Install :
 
