@@ -7,19 +7,19 @@ Screenshot !
 
 ## How to use :
 
-- Just download :
+#### Just download :
 
 Guild Wars 2 1.7 Intel-AMD.tar.gz : For Intel GPU or AMD GPU
 
 Guild Wars 2 1.7 Nvidia.tar.gz : For Nvidia GPU
 
-- Extract :
+#### Extract :
 
 Right clic extract here or
 
 ```tar -xvf Guild Wars 2 1.7 Nvidia.tar.gz```
 
-- Install :
+#### Install :
 
 Just double clic on install
 
