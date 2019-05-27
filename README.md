@@ -23,6 +23,10 @@ Right clic extract here or
 
 Just double clic on install select your folder and install it.
 
+#### Run :
+
+Just double clic on desktop shortcut in menu or desktop.
+
 ## Linux Compatibility :
 
 - Debian 8.x / 9.x
