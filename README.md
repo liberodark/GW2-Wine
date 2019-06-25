@@ -16,8 +16,7 @@ Guild Wars 2 1.8 [Download](https://github.com/liberodark/GW2-Wine/releases/down
 Right clic extract here or
 
 ```
-tar -xvf Guild.Wars.2.1.7.Intel-AMD.tar.gz
-tar -xvf Guild.Wars.2.1.7.Nvidia.tar.gz
+tar -xvf Guild.Wars.2.1.8.tar.gz
 ```
 
 #### Install :
