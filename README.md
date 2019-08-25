@@ -9,14 +9,14 @@ This is a easy installer for GW2 on Linux.
 
 #### Just download :
 
-Guild Wars 2 1.8.1 [Download](https://github.com/liberodark/GW2-Wine/releases/download/1.8.1/Guild.Wars.2.1.8.1.tar.gz) : For Nvidia / AMD / Intel GPU
+Guild Wars 2 1.8.2 [Download](https://github.com/liberodark/GW2-Wine/releases/download/1.8.2/Guild.Wars.2.1.8.2.tar.gz) : For Nvidia / AMD / Intel GPU
 
 #### Extract :
 
 Right clic extract here or
 
 ```
-tar -xvf Guild.Wars.2.1.8.tar.gz
+tar -xvf Guild.Wars.2.1.8.2.tar.gz
 ```
 
 #### Install :
