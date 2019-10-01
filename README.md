@@ -1,6 +1,6 @@
 # Guild Wars 2 for Linux
 
-This is a easy installer for GW2 on Linux.
+This is an easy installer for GW2 on Linux.
 
 [![https://imgur.com/hdn019q.png](https://imgur.com/hdn019q.png)](https://imgur.com/hdn019q.png)
 
@@ -13,7 +13,7 @@ Guild Wars 2 1.8.2 [Download](https://github.com/liberodark/GW2-Wine/releases/do
 
 #### Extract :
 
-Right clic extract here or
+Right click extract here or
 
 ```
 tar -xvf Guild.Wars.2.1.8.2.tar.gz
@@ -21,13 +21,13 @@ tar -xvf Guild.Wars.2.1.8.2.tar.gz
 
 #### Install :
 
-Just double clic on install select your folder and install it.
+Just double click on install select your folder and install it.
 
-PS : Progress bar not work at now but when is finish you have message Install Complete
+PS : Progress bar does not work now but when the install is finished you will receive an Install Complete message
 
 #### Run :
 
-Just double clic on desktop shortcut in menu or desktop.
+Just double click on desktop shortcut in menu or desktop.
 
 ## Linux Compatibility :
 
