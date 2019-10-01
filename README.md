@@ -23,8 +23,6 @@ tar -xvf Guild.Wars.2.1.8.2.tar.gz
 
 Just double click on install select your folder and install it.
 
-PS : Progress bar does not work now but when the install is finished you will receive an Install Complete message
-
 #### Run :
 
 Just double click on desktop shortcut in menu or desktop.
