@@ -9,14 +9,14 @@ This is an easy installer for GW2 on Linux.
 
 #### Just download :
 
-Guild Wars 2 1.9.1 [Download](https://github.com/liberodark/GW2-Wine/releases/download/1.9.1/Guild.Wars.2.1.9.1.tar.gz) : For Nvidia / AMD / Intel GPU
+Guild Wars 2 2.0 [Download](https://github.com/liberodark/GW2-Wine/releases/download/2.0/Guild.Wars.2.2.0.tar.gz) : For Nvidia / AMD / Intel GPU
 
 #### Extract :
 
 Right click extract here or
 
 ```
-tar -xvf Guild.Wars.2.1.9.1.tar.gz
+tar -xvf Guild.Wars.2.2.0.tar.gz
 ```
 
 #### Install :
@@ -29,11 +29,12 @@ Just double click on desktop shortcut in menu or desktop.
 
 ## Linux Compatibility :
 
-- Debian 8.x / 9.x
-- Ubuntu 18.04
-- Manjaro 18.0.4
-- Fedora 29 / 30
-- Centos 7.x
+- Debian 10.x / 11.x
+- Ubuntu 22.04
+- Manjaro 22.1.0
+- Fedora 30 / 35
+- AlmaLinux 8.x
+- RockyLinux 8.x
 
 ## Installer made by :
 
