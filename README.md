@@ -2,8 +2,11 @@
 
 This is an easy installer for GW2 on Linux.
 
-[![https://imgur.com/hdn019q.png](https://imgur.com/hdn019q.png)](https://imgur.com/hdn019q.png)
-
+<p align="center">
+    <img src="https://imgur.com/hdn019q.png" width="500">    
+</p>
+<p align="center">
+</p>
 
 ## How to use :
 
